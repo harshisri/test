@@ -6,5 +6,7 @@
         //prints hello world
 
 	System.out.println("Hello World");
+	//prints "welcome to git " in terminal window
+	System.out.println("welcome to git");
     }
 }
